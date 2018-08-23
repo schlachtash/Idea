@@ -1,0 +1,2 @@
+# Idea
+For Computer Sci
